@@ -13,7 +13,7 @@ session_start();?>
 			margin-left: 2rem;
 			  
 		} 
-		/* .panel-body{
+		/* .panel-body{ 
 			background-color: #eee;
 		} */
 		.btn-block {

@@ -11,7 +11,7 @@ session_start();?>
 		.panel1{
 			margin-bottom: 1.5rem;
 			margin-left: 2rem;
-			
+			  
 		} 
 		/* .panel-body{
 			background-color: #eee;

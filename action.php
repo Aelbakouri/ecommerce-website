@@ -8,7 +8,7 @@ session_start();?>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Document</title> 
 	<style>       
-		.panel1{ 
+		 .panel1{ 
 		 	margin-bottom: 1.5rem;
 			margin-left: 2rem;  
 			   

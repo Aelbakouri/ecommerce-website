@@ -21,7 +21,7 @@ session_start();?>
 			box-shadow: 0 0 20px #eee;
 	 		font-weight: 300;
 			color: white;
-			text-transform: uppercase; 
+			text-transform: uppercase;  
 			transition: 0.5s;
 			text-align: center;
 			border-radius: 10px;

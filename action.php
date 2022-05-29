@@ -17,7 +17,7 @@ session_start();?>
 			background-color: #eee;
 		} */
 		.btn-block {
-			background-color: #E4811C;
+			background-color: #E4811C; 
 			box-shadow: 0 0 20px #eee;
 	 		font-weight: 300;
 			color: white;

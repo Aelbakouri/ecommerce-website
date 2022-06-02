@@ -23,7 +23,7 @@ session_start();?>
 			color: white;
 			text-transform: uppercase;  
 			transition: 0.5s;
-			text-align: center;
+			text-align: center; 
 			border-radius: 10px;
 			margin: auto;
 			margin-bottom: 2rem;

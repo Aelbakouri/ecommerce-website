@@ -10,7 +10,7 @@ session_start();?>
 	<style>            
 		 .panel1{   
 		 	margin-bottom: 1.5rem; 
-			margin-left: 2rem;      
+			margin-left: 2rem;       
 			      
 		}  
 		/* .panel-body{  

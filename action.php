@@ -26,7 +26,7 @@ session_start();?>
 			text-align: center; 
 			border-radius: 10px;
 			margin: auto;
-			margin-bottom: 2rem;
+			margin-bottom: 2rem; 
 			width: 80%;
 			border: none;
 			padding: 12px 25px;

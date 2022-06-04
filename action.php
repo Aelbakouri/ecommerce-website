@@ -9,7 +9,7 @@ session_start();?>
 	<title>Document</title> 
 	<style>            
 		 .panel1{   
-		 	margin-bottom: 1 .5rem; 
+		 	margin-bottom: 1.5rem; 
 			margin-left: 2rem;       
 			      
 		}  

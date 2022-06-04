@@ -12,7 +12,7 @@ session_start();?>
 		 	margin-bottom: 1.5rem; 
 			margin-left: 2rem;       
 			      
-		}  
+		}   
 		/* .panel-body{  
 			background-color: #eee;
 		} */
